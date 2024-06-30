@@ -51,7 +51,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "ℝ𝕀ℂℍ𝔸ℝ𝔻",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
-  ownername: process.env.OWNER_NAME || "𝕊𝔸ℝ𝔸ℍ",
+  ownername: process.env.OWNER_NAME || "𝕊𝔸ℝ𝔸ℍ 𝕎𝔸 ℝ𝕀ℂℍ𝕀𝔼",
   errorChat: process.env.ERROR_CHAT || "+255674477908",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
